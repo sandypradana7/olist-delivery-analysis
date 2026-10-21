@@ -4,8 +4,6 @@ Projek ini melihat hubungan antara keterlambatan pengiriman dan skor review pela
 
 ![Dashboard](images/dashboard.png)
 
-Dashboard interaktif: [isi link GitHub Pages di sini]
-
 ## Yang ingin dijawab
 
 1. Berapa persen order yang telat, dan apakah berubah dari bulan ke bulan?
